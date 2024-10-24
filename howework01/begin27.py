@@ -1,0 +1,5 @@
+a = int(input('a = '))
+a2 = pow(a,2)
+a4 = pow(a2,2)
+a8 = pow(a4,2)
+print(a2,a4,a8)
